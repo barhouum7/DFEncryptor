@@ -34,3 +34,7 @@ cd myDFEncriptor
 chmod +x myDFEncriptorScript.sh
 bash myDFEncriptorScript.sh
 ```
+## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+```bash
+Coming Soon!😊
+```
