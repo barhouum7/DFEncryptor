@@ -5,3 +5,7 @@
 
 ###### DFEncriptor Script First Version☣ Bash implementation of a simple script that can encrypt your files/Folders. This script will encrypt a file (remember? directory/driver/…. everything is treated as file, in Linux).
 
+<hr> 
+<h2>BUG ?</h2>
+<ul><li>Feel free and submit <a href="https://github.com/barhouum7/DFEncriptor/issues">new issue</a></li></ul><hr>
+<hr>
