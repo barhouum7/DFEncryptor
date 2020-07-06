@@ -14,3 +14,12 @@
 <h3>If you would like to get in touch with me, Feel free to send me an email or you could find me on Twitter : </h3><br>E-mail: <a href="mailto:bb.med2000@gmail.com?Subject=Hello%20again" target="_top">Send Mail 📧</a><br>Twitter: <a href="https://twitter.com/MindH4Q3Rr">🐦</a>
 <hr>
 <hr>
+
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
+```bash
+git clone https://github.com/barhouum7/DFEncriptor.git
+cd myDFEncriptor
+chmod +x myDFEncriptorScript.sh
+bash myDFEncriptorScript.sh
+```
