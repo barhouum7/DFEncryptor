@@ -8,10 +8,12 @@
 
 <h2>🌟 <a href="https://github.com/barhouum7/DFEncriptor/blame/master/LICENSE">DFEncriptor V1.0 Free Tool</a> 🌟</h2>
 
-<hr> 
+<h2>Screenshots</h2>
+<img src="https://i.imgur.com/85KgDbU.png" data-canonical-src="https://i.imgur.com/85KgDbU.png" width="700" height="470">
+
+<hr>
 <h2>BUG ?</h2>
 <ul><li>Feel free and submit <a href="https://github.com/barhouum7/DFEncriptor/issues">new issue</a></li></ul><hr>
-<hr>
 
 <h2>How To Reach Me? 📧</h2>
 <h3>If you would like to get in touch with me, Feel free to send me an email or you could find me on Twitter : </h3><br>E-mail: <a href="mailto:bb.med2000@gmail.com?Subject=Hello%20again" target="_top">Send Mail 📧</a><br>Twitter: <a href="https://twitter.com/MindH4Q3Rr">🐦</a>
