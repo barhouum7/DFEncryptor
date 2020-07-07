@@ -6,6 +6,8 @@
 
 ###### DFEncriptor Script First Version☣ Bash implementation of a simple script that can encrypt your files/Folders. This script will encrypt a file (remember? directory/driver/…. everything is treated as file, in Linux).
 
+<h2>🌟 <a href="https://github.com/barhouum7/DFEncriptor/blame/master/LICENSE">DFEncriptor V1.0 Free Tool</a> 🌟</h2>
+
 <hr> 
 <h2>BUG ?</h2>
 <ul><li>Feel free and submit <a href="https://github.com/barhouum7/DFEncriptor/issues">new issue</a></li></ul><hr>
@@ -35,6 +37,14 @@ chmod +x myDFEncriptorScript.sh
 bash myDFEncriptorScript.sh
 ```
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+
+Download [Cmder: Portable console emulator for Windows](https://cmder.net/)
+
+###### Then just you need to Follow these commands below.
+
 ```bash
-Coming Soon!😊
+git clone https://github.com/barhouum7/DFEncriptor.git
+cd myDFEncriptor
+chmod +x myDFEncriptorScript.sh
+bash myDFEncriptorScript.sh
 ```
