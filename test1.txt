@@ -1,0 +1,13 @@
+# Encrypt a File/Directory
+
+# This script will encrypt a file (remember? directory/driver/…. everything is treated as file, in Linux).
+
+# NOTE: You need to place the script and file to be encrypted in the same folder.
+
+# You may need to install “pinentry-gui”, using yum or apt the package, if required.
+
+gpg -c : This will encrypt your file, using a passkey aka password.
+In this process of learning you would have never thought that the actual process of learning could be that much easy.
+So after encrypting a file what you need? Obviously! decrypting the file.
+
+Note: gpg -d filename.gpg > filename is what you need to implement in your decryption script.
